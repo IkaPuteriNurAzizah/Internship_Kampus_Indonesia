@@ -1,23 +1,6 @@
 # Internship_Kampus_Indonesia
 Projek ini adalah penugasan awal dari kegiatan Internship saya di Kampus Indonesia sebagai divisi Front End Web Developer
 
-<details open="open">
-  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
-  <ol>
-    <li><a href="#kampus-indonesia">Kampus Indonesia</a></li>
-    <li><a href="#tahap-tahap-mengerjakan-projek">Tahap-Tahap Mengerjakan Projek</a></li>
-    <ul>
-      <li><a href="#prasyarat">Prasyarat</a></li>
-      <li><a href="#proses-install-&-download">Proses Install & Download</a></li>
-      <li><a href="#install-plugin-dan-dependensi-pada-vue-ui">Install Plugin dan Dependensi pada Vue UI</a></li>
-      <li><a href="#download-api">Download API</a></li>
-    </ul>
-    <li><a href="#dokumentasi">Dokumentasi</a></li>
-    <li><a href="#features-of-this-projects">Features of This Projects</a></li> 
-    <li><a href="#present-by">Present By</a></li>
-  </ol>
-</details>
-
 ## Tahap-Tahap Mengerjakan Projek
 Berikut ini tahap untuk pengerjaan projek administrasi program internship Kampus Merdeka
 
