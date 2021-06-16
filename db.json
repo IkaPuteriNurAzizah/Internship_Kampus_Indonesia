@@ -1,0 +1,174 @@
+{
+  "best-products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Universitas Gadjah Mada",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"UGM.png",
+      "gambar": "UGM.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Institut Teknologi Bandung",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"ITB.png",
+      "gambar": "ITB.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Institut Teknologi Sepuluh Nopember",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"ITS.png",
+      "gambar": "ITS.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Universitas Gadjah Mada",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"UGM.png",
+      "gambar": "UGM.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Institut Teknologi Bandung",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"ITB.png",
+      "gambar": "ITB.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Institut Teknologi Sepuluh Nopember",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"ITS.png",
+      "gambar": "ITS.jpg"
+    },
+    {
+      "id": 4,
+      "kode": "K-04",
+      "nama": "Universitas Indonesia",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"UI.png",
+      "gambar": "UI.jpg"
+    },
+    {
+      "id": 5,
+      "kode": "K-05",
+      "nama": "Institut Pertanian Bogor",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"IPB.png",
+      "gambar": "IPB.jpg"
+    },
+    {
+      "id": 6,
+      "kode": "K-06",
+      "nama": "Universitas Airlangga",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"Unair.png",
+      "gambar": "Unair.jpg"
+    },
+    {
+      "id": 7,
+      "kode": "K-07",
+      "nama": "Universitas Diponegoro",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"Undip.png",
+      "gambar": "Undip.jpg"
+    },
+    {
+      "id": 8,
+      "kode": "K-08",
+      "nama": "Universitas Jember",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"Unej.png",
+      "gambar": "Unej.jpg"
+    },
+    {
+      "id": 9,
+      "kode": "K-09",
+      "nama": "Universitas Brawijaya",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"Unibraw.png",
+      "gambar": "Unibraw.jpg"
+    },
+    {
+      "id": 10,
+      "kode": "K-09",
+      "nama": "Universitas Sebelas Maret",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"UNS.png",
+      "gambar": "UNS.jpg"
+    },
+    {
+      "id": 11,
+      "kode": "K-09",
+      "nama": "Universitas Padjadjaran",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"Unpad.png",
+      "gambar": "Unpad.jpg"
+    },
+    {
+      "id": 12,
+      "kode": "K-09",
+      "nama": "Universitas Hasanuddin",
+      "akreditasi": "A",
+      "is_ready": true,
+      "logo":"Unhas.png",
+      "gambar": "Unhas.jpg"
+    }
+  ],
+  "seminar": [
+    {
+      "id": 1,
+      "kode": "K-01",
+      "nama": "Designing Career Path",
+      "tipe": "Workshop",
+      "tanggal":"12 Juni 2021",
+      "via":"Zoom Meeting",
+      "is_ready": true,
+      "gambar": "Seminar1.jpg"
+    },
+    {
+      "id": 2,
+      "kode": "K-02",
+      "nama": "Webinar Cyber Security",
+      "tipe": "Webinar",
+      "tanggal":"29 Juni 2021",
+      "via":"Zoom Meeting",
+      "is_ready": true,
+      "gambar": "Seminar2.jpg"
+    },
+    {
+      "id": 3,
+      "kode": "K-03",
+      "nama": "Meraup Cuan di Pasar Modal",
+      "tipe": "Webinar",
+      "tanggal":"19 Juni 2021",
+      "via":"Zoom Meeting",
+      "is_ready": true,
+      "gambar": "Seminar3.jpg"
+    }
+  ]
+  
+}
