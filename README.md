@@ -40,6 +40,3 @@ Jika ingin menampilkan card perguruan tinggi maka download atau copy paste file 
 - Cari Kampus
 - Cari Seminar
 - Login/Registrasi Member
-
-## Dipersembahkan Oleh
-
