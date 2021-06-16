@@ -1,3 +1,4 @@
+
 # Internship_Kampus_Indonesia
 Projek ini adalah penugasan awal dari kegiatan Internship saya di Kampus Indonesia sebagai divisi Front End Web Developer
 
@@ -29,12 +30,13 @@ Berikut ini tahap untuk pengerjaan projek administrasi program internship Kampus
   $ vue ui /atau 
   $ vue ui -H 0.0.0.0 (jika ingin memilih localhost sesuai keinginan) 
   ```
-### Install Plugin dan Dependensi pada Vue UI
 
 ### Download API
 Jika ingin menampilkan card perguruan tinggi maka download atau copy paste file db.json. Lalu run pada terminal atau Command Prompt
 
 ## Dokumentasi
+![1](https://user-images.githubusercontent.com/80514159/122255754-a1ff3380-cef8-11eb-9eb4-0d3ad8a97f5a.jpg)
+![2](https://user-images.githubusercontent.com/80514159/122255836-b6dbc700-cef8-11eb-9d19-c9222f6a124d.jpg)
 
 ## Fitur Pada Website
 - Cari Kampus
